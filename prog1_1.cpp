@@ -27,5 +27,5 @@ int main() {
     alias = 99;     
     cout << "x via alias = " << x << endl;
 
-    return 0;
+    return 0; 
 }
